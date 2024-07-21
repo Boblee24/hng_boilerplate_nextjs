@@ -106,7 +106,7 @@ const SignupOtp: React.FC = () => {
           <CustomButton
             variant="destructive"
             className="mb-8 w-full py-[1.5rem]"
-            >
+          >
             Continue
           </CustomButton>
         </div>
