@@ -102,7 +102,7 @@ const SignupOtp: React.FC = () => {
             />
           ))}
         </div>
-        <div className="flex items-center justify-center pf">
+        <div className="flex items-center justify-center">
           <CustomButton
             variant="destructive"
             className="mb-8 w-full py-[1.5rem]"
