@@ -34,7 +34,7 @@ const SignupOtp: React.FC = () => {
           })([...otp])
         : otp;
 
-    console.log(newOtp);
+    newOtp;
     value !== "" && index < 5 && inputReferences.current[index + 1]?.focus();
   };
 
